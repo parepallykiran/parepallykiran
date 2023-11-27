@@ -11,10 +11,3 @@
 <br> 
 </div>
 
----
-
-<div align="center">
-  
-![Saikiran Parepally's GitHub stats](https://github-readme-stats.vercel.app/api?username=parepallykiran&count_private=true&show_icons=true)
-  
-</div>
